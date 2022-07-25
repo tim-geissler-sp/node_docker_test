@@ -1,0 +1,13 @@
+{
+    "name": "basic_server",
+    "version": "1.0.0",
+    "description": "Node.js on Docker",
+    "author": "T. Geissler",
+    "main": "basic_server.js",
+    "scripts": {
+      "start": "node basic_server.js"
+    },
+    "dependencies": {
+      "express": "^4.16.1"
+    }
+  }
